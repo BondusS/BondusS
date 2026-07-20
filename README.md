@@ -9,7 +9,7 @@
 * Studying and do researches in applied data science and going to continue it in **PhD**.
 * I would be glad to join an interesting project where my skills and competencies would be useful and in demand.
 
-Feel free to contact me in ![Static Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=t.me/BondusS) or ![Static Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=maildotru&logoColor=white&link=mailto:ambondarenko@edu.hse.ru)
+Feel free to contact me in [![Static Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=t.me/BondusS)](https://t.me/BondusS) or [![Static Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=maildotru&logoColor=white&link=mailto:ambondarenko@edu.hse.ru)](mailto:ambondarenko@edu.hse.ru)
 
 ---
 
@@ -18,7 +18,7 @@ Feel free to contact me in ![Static Badge](https://img.shields.io/badge/-Telegra
 ![Static Badge](https://img.shields.io/badge/-Python-black?&logo=python)
 ![Static Badge](https://img.shields.io/badge/-PyThorch-black?&logo=pytorch)
 ![Static Badge](https://img.shields.io/badge/-Tensorflow-black?&logo=tensorflow)
-![Static Badge](https://img.shields.io/badge/-Keras-black?&logo=keras)
+![Static Badge](https://img.shields.io/badge/-Keras-black?&logo=keras&logoColor=red)
 ![Static Badge](https://img.shields.io/badge/-ONNX-black?&logo=onnx)
 ![Static Badge](https://img.shields.io/badge/-Jupiter-black?&logo=jupyter)
 ![Static Badge](https://img.shields.io/badge/-Transformers-black?&logo=huggingface)
@@ -56,7 +56,7 @@ Feel free to contact me in ![Static Badge](https://img.shields.io/badge/-Telegra
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=BondusS&theme=github-dark&hide_border=true&card_width=1000&card_height=200)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=BondusS&theme=github-dark&hide_border=true&card_width=1000&card_height=200)
 
 <!--
 **BondusS/BondusS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
